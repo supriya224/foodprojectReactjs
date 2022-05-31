@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/foodprojectReactjs/static/css/main.29cfd56b.css",
+    "main.js": "/foodprojectReactjs/static/js/main.db3cdf83.js",
+    "static/media/pic7.jpg": "/foodprojectReactjs/static/media/pic7.5caa38a9aa478a5f15b2.jpg",
+    "static/media/pic2.jpg": "/foodprojectReactjs/static/media/pic2.993fa0b22eb1f60ac723.jpg",
+    "static/media/pic16.jpg": "/foodprojectReactjs/static/media/pic16.bc12470672df1814cb35.jpg",
+    "index.html": "/foodprojectReactjs/index.html",
+    "main.29cfd56b.css.map": "/foodprojectReactjs/static/css/main.29cfd56b.css.map",
+    "main.db3cdf83.js.map": "/foodprojectReactjs/static/js/main.db3cdf83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29cfd56b.css",
+    "static/js/main.db3cdf83.js"
+  ]
+}
