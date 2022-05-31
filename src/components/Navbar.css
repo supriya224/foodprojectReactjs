@@ -1,0 +1,40 @@
+.navbar {
+    padding-left: 700px;
+    padding-top: 34px;
+    /* position: absolute; */
+    top: 0;
+    left: 0;
+    width: 1200px;
+    margin: 0 auto;
+
+
+}
+
+.navList {
+ 
+    list-style-type: none;
+    /* background: linear-gradient(45deg, rgb(241, 232, 232), rgb(239, 239, 241)); */
+    height: 100%; 
+    display: flex;   
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    display: flex;
+    gap: 0.5rem;
+    margin: 0;
+    padding: 0;
+}
+
+.navListItem {
+    display: flex;
+    width: 100%;
+    border-top: 1px solid 2px  rgba(255, 255, 255, 0.89);
+    color: white;
+    text-align: center;
+    margin-right: 0px;
+    /* padding: 20px 0; */
+    font-size: 18px;
+    font-weight: 300;
+    cursor: pointer;
+}
+
